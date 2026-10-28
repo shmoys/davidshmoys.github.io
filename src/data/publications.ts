@@ -785,7 +785,7 @@ export const publications: Publication[] = [
     "title": "Assortment optimazation under the multinomial logit model with random choice parameters",
     "authors": "P. Rusmevichientong, C. Tong, H. Topaloglu and D.B. Shmoys",
     "venue": "Production and Operations Management 23, 2023-2039, 2014",
-    "year": 2023,
+    "year": 2014,
     "tags": [
       "Inventory"
     ],
